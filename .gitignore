@@ -1,0 +1,24 @@
+# Logs
+logs/*.log
+logs/*.txt
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Backup outputs
+backups/
+*.tar.gz
+*.zip
+
+# Config (local only)
+config/local.sh
